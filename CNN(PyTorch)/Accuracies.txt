@@ -1,0 +1,23 @@
+				MNIST
+SGD
+1. Lr = 0.001 : Accuracy = 93.59%
+2. Lr = 0.005 : Accuracy = 98.14%
+3. Lr = 0.01  : Accuracy = 98.6%
+
+AdamW
+1. Lr = 0.001 : Accuracy = 99.18%
+2. Lr = 0.005 : Accuracy = 98.71%
+3. Lr = 0.01  : Accuracy = 97.88%
+
+
+
+				CIFAR10
+SGD
+1. Lr = 0.001 : Accuracy = 29.61%
+2. lr = 0.005 : Accuracy = 53.55%
+3. Lr = 0.01  : Accuracy = 61.46%
+
+Adam
+1. Lr = 0.001 : Accuracy = 69.22%
+2. Lr = 0.005 : Accuracy = 61.36%
+3. lr = 0.01  : Accuracy = 10.0%
