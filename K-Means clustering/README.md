@@ -29,3 +29,20 @@ function used.
 
 4) Code will be evaluated on the basis of readability, result, and approach. Any kind of
 plagiarism will be highly penalized.
+
+
+Data Set Description:
+
+Data Filename: iris_plant.csv
+
+The data set contains 150 data points, there are three clusters where each cluster refers to a
+type of iris plant. The first four columns represent the attributes listed below. The last column
+is the ground truth cluster name and is to be used for evaluating the cluster quality.
+1. sepal length in cm
+2. sepal width in cm
+3. petal length in cm
+4. petal width in cm
+5. Ground truth cluster name:
+-- Iris Setosa
+-- Iris Versicolour
+-- Iris Virginica
