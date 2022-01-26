@@ -1,4 +1,4 @@
-# Genetic Algorithm
+# Genetic Algorithm (from scratch)
 
 Program a complete genetic algorithm using PYTHON to maximize the
 number of 1’s in a bit string of length 20. Thus our chromosomes will be
