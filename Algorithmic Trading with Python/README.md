@@ -4,4 +4,4 @@ Algorithmic trading means using computers to make investment decisions. Computer
 
 This is just a basic code and not intended as advice or a map for trading. 
 
-Taken from freeCodeCamp.org: https://www.youtube.com/watch?v=xfzGZB4HhEE
+Taken as part of course by freeCodeCamp.org: https://www.youtube.com/watch?v=xfzGZB4HhEE
